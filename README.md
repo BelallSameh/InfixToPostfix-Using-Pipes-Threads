@@ -1,8 +1,4 @@
-Here's a succinct and styled README.md file for your InfixToPostfix-Using-Pipes-Threads project:
-
----
-
-# InfixToPostfix-Using-Pipes-Threads
+# Infix To Postfix Using Pipes & Threads
 
 ## Project Overview
 
