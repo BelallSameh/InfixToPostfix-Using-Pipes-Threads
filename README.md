@@ -1,15 +1,15 @@
 # Infix To Postfix Using Pipes & Threads
 
-## Project Overview
+## 📚 Project Overview
 
 This calculator project converts infix notation to postfix and performs calculations using threading and pipes in C. Utilizing pipes and threads enhances performance by enabling concurrent execution of tasks rather than sequential processing.
 
-## Repository Contents
+## 📂 Repository Contents
 
 - **C Code**: Implementation of infix to postfix conversion and calculation using pipes and threads.
 - **Documentation**: Detailed explanation of the project's functionality and code structure.
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the Repository**:
     ```bash
@@ -21,13 +21,13 @@ This calculator project converts infix notation to postfix and performs calculat
     - Compile the C code using your preferred compiler.
     - Execute the compiled program to see infix to postfix conversion and calculation using pipes and threads.
 
-## Features
+## 🌟 Features
 
 - **Infix to Postfix Conversion**: Convert mathematical expressions for efficient evaluation.
 - **Threaded Execution**: Utilize threads for parallel processing of tasks.
 - **Pipe Communication**: Use pipes for inter-process communication, enhancing program efficiency.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! To contribute:
 1. Fork the repository.
@@ -36,6 +36,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## Contact
+## 📬 Contact
 
 For any inquiries or issues, please contact belalsameh188@gmail.com or open an issue in the repository.
